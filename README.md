@@ -23,17 +23,13 @@ The goal is to explore trends across different age groups and visualize changes 
 
 ## 📈 Visualizations
 
-### Child Mortality Trend (Ages 1–4)
-![Mortality Ages 1-4](plots/plot1_mortality_age_1_4.png)
+![Mortality Ages 1-4](plot1_mortality_age_1_4.png)
 
-### Mortality Trends by Age Group
-![All Age Groups](plots/plot2_mortality_all_groups.png)
+![All Age Groups](plot2_mortality_all_groups.png)
 
-### Mortality by Age Group (Most Recent Year)
-![Latest Year](plots/plot3_mortality_latest_year.png)
+![Latest Year](plot3_mortality_latest_year.png)
 
-### Shot Attempts by Period (NBA Dataset)
-![Shots by Period](plots/plot4_shots_by_period.png)
+![Shots by Period](plot4_shots_by_period.png)
 
 ---
 
